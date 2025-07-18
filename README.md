@@ -9,16 +9,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<!-- Simulated Liquid Glass using an SVG blur overlay -->
-<img src="https://i.ibb.co/Zd9nkv6/glass-effect-sim.png" width="100%" alt="liquid glass effect" />
-
-</div>
-
----
 
 <div align="center">
 
