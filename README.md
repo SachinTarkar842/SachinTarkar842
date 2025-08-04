@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Sachin Tarkar!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;iOS+App+Developer+%26+UI%2FUX+Designer;Swift+%7C+SwiftUI+%7C+Figma+Expert;Crafting+Beautiful+Mobile+Experiences!" alt="Typing SVG" />
 
 </div>
 
@@ -10,39 +10,47 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Design & Development" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ad35a91080111e71b9b0c4724f83.gif">
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, programming, or tech in general
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: I love coding and problem-solving!
+- 📱 **iOS App Developer** & **UI/UX Designer** passionate about creating stunning mobile experiences
+- 🎨 I bridge the gap between **beautiful design** and **functional code**
+- 🔭 Currently crafting innovative iOS applications with pixel-perfect designs
+- 🌱 Always exploring the latest in **iOS development** and **design trends**
+- 👯 Looking to collaborate on **iOS projects** and **design systems**
+- 💬 Ask me about **Swift, SwiftUI, Figma, iOS Design Patterns**
+- 📫 Reach me at: **sachintarkar842@gmail.com**
+- ⚡ Fun fact: I design in Figma and bring it to life in Xcode! 🎨📱
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Design Tools
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+### 📱 iOS Development
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" alt="UIKit"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+### 🎨 Design & Prototyping
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
+<img src="https://img.shields.io/badge/Sketch-FFB000?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch"/>
+<img src="https://img.shields.io/badge/Principle-000000?style=for-the-badge&logo=principle&logoColor=white" alt="Principle"/>
 
-### Databases & Tools
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+### 🏗️ Architecture & Patterns
+<img src="https://img.shields.io/badge/MVVM-FF9500?style=for-the-badge&logo=swift&logoColor=white" alt="MVVM"/>
+<img src="https://img.shields.io/badge/Design_System-34C759?style=for-the-badge&logo=figma&logoColor=white" alt="Design System"/>
+<img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="Combine"/>
+<img src="https://img.shields.io/badge/Core_Data-FF6B35?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
+
+### 🌐 Additional Skills
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
 
 </div>
 
@@ -52,14 +60,14 @@
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinTarkar842&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinTarkar842&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SachinTarkar842&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=F24E1E&title_color=007AFF" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinTarkar842&theme=radical&hide_border=true&background=0D1117&stroke=007AFF&ring=F24E1E&fire=FF9500" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTarkar842&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTarkar842&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=007AFF" alt="Top Languages"/>
 
 </div>
 
@@ -69,7 +77,110 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=SachinTarkar842&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SachinTarkar842&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🎨 Design + Development Philosophy
+
+<div align="center">
+
+```swift
+struct DesignerDeveloper {
+    let name = "Sachin Tarkar"
+    let roles = ["iOS App Developer", "UI/UX Designer"]
+    
+    // Development Skills
+    let programmingLanguages = ["Swift", "SwiftUI", "UIKit"]
+    let frameworks = ["Combine", "Core Data", "Foundation"]
+    let tools = ["Xcode", "Instruments", "TestFlight"]
+    
+    // Design Skills  
+    let designTools = ["Figma", "Sketch", "Adobe XD", "Principle"]
+    let designSkills = ["User Research", "Wireframing", "Prototyping", "Design Systems"]
+    let specialties = ["Mobile UI Design", "iOS Human Interface Guidelines"]
+    
+    func myApproach() -> String {
+        return """
+        🎨 Design with user experience in mind
+        📱 Develop with performance and accessibility
+        ✨ Bridge design and code seamlessly
+        🚀 Create apps that users love
+        """
+    }
+    
+    func workflow() -> [String] {
+        return [
+            "Research & User Analysis",
+            "Wireframe & Prototype in Figma",
+            "Design System Creation", 
+            "SwiftUI Implementation",
+            "User Testing & Iteration"
+        ]
+    }
+}
+
+let creator = DesignerDeveloper()
+print(creator.myApproach())
+```
+
+</div>
+
+---
+
+## 🎯 Skills & Expertise
+
+<div align="center">
+
+| 📱 **iOS Development** | 🎨 **UI/UX Design** | 🔧 **Tools & Tech** |
+|----------------------|-------------------|-------------------|
+| Swift Programming | User Research | Figma |
+| SwiftUI Framework | Wireframing | Xcode |
+| UIKit Development | Prototyping | Git & GitHub |
+| iOS Architecture | Design Systems | App Store Connect |
+| Core Data | User Testing | TestFlight |
+| Combine Framework | Interaction Design | Firebase |
+| Performance Optimization | Accessibility Design | REST APIs |
+| App Store Guidelines | iOS Design Patterns | CI/CD |
+
+</div>
+
+---
+
+## 🚀 My Design-to-Code Process
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🔍 User Research] --> B[📝 Wireframing]
+    B --> C[🎨 UI Design in Figma]
+    C --> D[🔧 Prototype & Test]
+    D --> E[📱 SwiftUI Implementation]
+    E --> F[🧪 User Testing]
+    F --> G[🚀 App Store Release]
+    F --> D
+```
+
+</div>
+
+---
+
+## 🌟 What Makes Me Unique
+
+<div align="center">
+
+### 🎨 **Designer's Eye** + 📱 **Developer's Mind**
+
+| Design Thinking | Development Excellence |
+|----------------|----------------------|
+| 👥 User-Centered Design | 🏗️ Clean Architecture |
+| 🎯 Problem Solving | ⚡ Performance Optimization |
+| 🎨 Visual Aesthetics | 🧪 Test-Driven Development |
+| 📊 Data-Driven Decisions | 📱 iOS Best Practices |
+| ♿ Accessibility Focus | 🔒 Security Implementation |
 
 </div>
 
@@ -85,41 +196,33 @@
 
 ---
 
-## 🎯 Current Focus
+## 📈 Activity Graph
 
 <div align="center">
-
-```javascript
-const sachin = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "programming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Bootstrap", "CSS3"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "GitHub", "VS Code"]
-    },
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm not ashamed!"
-};
-```
+  
+<img src="https://activity-graph.herokuapp.com/graph?username=SachinTarkar842&theme=redical&hide_border=true&bg_color=0D1117&color=007AFF&line=F24E1E&point=FFFFFF" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🎨 Design Portfolio Highlights
 
 <div align="center">
-  
-<img src="https://activity-graph.herokuapp.com/graph?username=SachinTarkar842&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+
+### 🔥 Featured Work
+```
+📱 iOS App Designs: Beautiful, intuitive mobile interfaces
+🎨 Design Systems: Consistent, scalable design components  
+🚀 Prototypes: Interactive demos that wow clients
+✨ UI Animations: Smooth, delightful user interactions
+```
+
+### 🏆 Design Principles I Follow
+- **Simplicity** - Less is more, focus on what matters
+- **Consistency** - Unified experience across the app
+- **Accessibility** - Design for everyone, not just some
+- **Performance** - Beautiful designs that perform well
 
 </div>
 
@@ -129,17 +232,20 @@ const sachin = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/sachintarkar842">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://dribbble.com/sachintarkar842">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="https://behance.net/sachintarkar842">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+</a>
+<a href="mailto:sachintarkar842@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/SachinTarkar842">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://twitter.com/sachintarkar842">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 </div>
@@ -160,9 +266,9 @@ const sachin = {
 
 <div align="center">
   
-### 🎵 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎨 "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
-<img src="https://komarev.com/ghpvc/?username=SachinTarkar842&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SachinTarkar842&label=Profile%20views&color=F24E1E&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -170,8 +276,8 @@ const sachin = {
 
 <div align="center">
   
-**Thanks for visiting my profile! Have a great day! 😊**
+**Thanks for visiting my profile! Let's create something amazing together! 🚀🎨📱**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always excited to collaborate with fellow designers and developers!</b> Whether you need a beautiful design or a robust iOS app, <b>let's bring ideas to life!</b> ✨</em>
 
 </div>
