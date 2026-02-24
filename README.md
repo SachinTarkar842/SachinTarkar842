@@ -1,100 +1,87 @@
-<div align="center">
-  
-# 👋 Hi there, I'm Sachin Tarkar!
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Sachin!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;iOS+App+Developer+%26+UI%2FUX+Designer;Swift+%7C+SwiftUI+%7C+Figma+Expert;Crafting+Beautiful+Mobile+Experiences!" alt="Typing SVG" />
+<h3 align="center">
+  iOS Developer • UI/UX Designer • Swift Enthusiast
+</h3>
 
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Design & Development" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ad35a91080111e71b9b0c4724f83.gif">
-
-- 📱 **iOS App Developer** & **UI/UX Designer** passionate about creating stunning mobile experiences
-- 🎨 I bridge the gap between **beautiful design** and **functional code**
-- 🔭 Currently crafting innovative iOS applications with pixel-perfect designs
-- 🌱 Always exploring the latest in **iOS development** and **design trends**
-- 👯 Looking to collaborate on **iOS projects** and **design systems**
-- 💬 Ask me about **Swift, SwiftUI, Figma, iOS Design Patterns**
-- 📫 Reach me at: **sachintarkar842@gmail.com**
-- ⚡ Fun fact: I design in Figma and bring it to life in Xcode! 🎨📱
-
-
-
-
-## 🎯 Skills & Expertise
-
-<div align="center">
-
-| 📱 **iOS Development** | 🎨 **UI/UX Design** | 🔧 **Tools & Tech** |
-|----------------------|-------------------|-------------------|
-| Swift Programming | User Research | Figma |
-| SwiftUI Framework | Wireframing | Xcode |
-| UIKit Development | Prototyping | Git & GitHub |
-| iOS Architecture | Design Systems | App Store Connect |
-| Core Data | User Testing | TestFlight |
-| Combine Framework | Interaction Design | Firebase |
-| Performance Optimization | Accessibility Design | REST APIs |
-| App Store Guidelines | iOS Design Patterns | CI/CD |
-
-</div>
-
-
-
-## 🌟 What Makes Me Unique
-
-<div align="center">
-
-### 🎨 **Designer's Eye** + 📱 **Developer's Mind**
-
-| Design Thinking | Development Excellence |
-|----------------|----------------------|
-| 👥 User-Centered Design | 🏗️ Clean Architecture |
-| 🎯 Problem Solving | ⚡ Performance Optimization |
-| 🎨 Visual Aesthetics | 🧪 Test-Driven Development |
-| 📊 Data-Driven Decisions | 📱 iOS Best Practices |
-| ♿ Accessibility Focus | 🔒 Security Implementation |
-
-</div>
-
-
-
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sachintarkar842">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sachintarkar842@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-
-</div>
-
-
-
-
-
-<div align="center">
-  
-### 🎨 "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
-
-<img src="https://komarev.com/ghpvc/?username=SachinTarkar842&label=Profile%20views&color=F24E1E&style=flat" alt="Profile Views" />
-
-</div>
+<p align="center">
+  Building meaningful apps with clean UI & solid architecture 🚀
+</p>
 
 ---
 
-<div align="center">
-  
-**Thanks for visiting my profile! Let's create something amazing together! 🚀🎨📱**
+## 👋 About Me
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always excited to collaborate with fellow designers and developers!</b> Whether you need a beautiful design or a robust iOS app, <b>let's bring ideas to life!</b> ✨</em>
+Hey there! 👋  
+I’m **Sachin**, an **iOS App Developer** focused on building **user-centric**, **offline-first**, and **performance-optimized** apps using **Swift & SwiftUI**.
 
-</div>
+- 🎯 Interested in **EdTech**, **HealthTech**, and **AI-powered apps**
+- 🧠 Strong in **UI/UX thinking + clean architecture**
+- 🔒 Some projects are private due to **NDA / academic constraints**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,apple,figma,firebase,supabase,java,git,github" />
+</p>
+
+---
+
+## 📱 Featured Projects
+
+### 🧠 **Leolingo** (Speech Therapy App)
+- iPad-first app for speech delay kids
+- Offline support
+- Gamified speech practice
+- Role: **UI Designer & iOS Developer**
+
+### 📚 **Preplus** (AI Study Companion)
+- Smart Notes + AI Tutor
+- Quiz generation from notes
+- Progress tracking & analytics
+
+### 🏥 **MediOps**
+- Hospital management iOS app
+- Patient, Doctor & Admin flows
+- Supabase backend integration
+
+> 🔐 *Full source code available in private repositories*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring a repo!
+</p>
