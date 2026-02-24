@@ -1,96 +1,110 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ================= APPLE STYLE BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Sachin%20Tarkar!&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-  iOS Developer • UI/UX Designer • Swift Enthusiast
-</h3>
-
-<p align="center">
-  Building user-centric, clean & scalable iOS applications 🚀
+  <img src="https://raw.githubusercontent.com/SachinTarkar842/SachinTarkar842/main/banner.png" alt="Sachin Tarkar Banner" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Professional Summary
 
-Hey there! 👋  
-I’m **Sachin Tarkar**, an **iOS App Developer** with a strong focus on **Swift, SwiftUI, and UI/UX design**.
+I’m **Sachin Tarkar**, a **Computer Science Engineering student (2022–2026)** with hands-on experience in building **scalable, user-centric iOS applications** using **Swift, SwiftUI, and UIKit**.
 
-- 📱 iOS development with **Swift & SwiftUI**
-- 🎨 UI/UX design using **Figma**
-- 🧠 Interested in **EdTech, HealthTech & AI-powered apps**
-- 🔒 Many production-level projects are private due to **NDA / academic constraints**
+I enjoy solving real-world problems through **efficient code**, **clean UI/UX**, and a **product-first mindset**.  
+I’ve worked in **Agile environments**, served as a **Scrum Master at Infosys**, and collaborated closely with designers and backend engineers.
+
+---
+
+## 🧠 Core Skills
+
+**Languages**  
+Swift • SwiftUI • Java • Python (Basics)
+
+**CS Fundamentals**  
+Data Structures & Algorithms • OOP • DBMS • Operating Systems
+
+**iOS & Tools**  
+UIKit • SwiftUI • SceneKit • Apple Speech API  
+Xcode • Git • GitHub • JIRA • Supabase
+
+**UI/UX**  
+Figma • Canva • Keynote
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,apple,figma,firebase,supabase,java,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,apple,figma,java,git,github,firebase,supabase&theme=dark" />
 </p>
 
 ---
 
 ## 📱 Featured Projects
 
-### 🧠 **Leolingo** — Speech Therapy App (iPad)
-- Helps children with speech delay
-- Offline-first experience
-- Gamified speech exercises
-- Role: **UI Designer & iOS Developer**
+### 🗣️ LeoLingo — Speech Therapy iOS App
+**Role:** UI/UX Designer & iOS Developer  
+**Tech:** Swift, SwiftUI, UIKit, Apple Speech API, Figma  
 
-### 📚 **Preplus** — AI Study Companion
-- AI Tutor for Q&A and summaries
-- Smart Notes & Quiz generation
-- Progress tracking with analytics
-
-### 🏥 **MediOps** — Hospital Management App
-- Patient, Doctor & Admin modules
-- Supabase backend integration
-- Clean and scalable architecture
-
-> 🔐 *Complete source code is maintained in private repositories.*
+- Designed a **child-friendly iPad-first UI**
+- Built interactive speech-learning modules
+- Focused on accessibility and usability
+- Contributed to a functional **MVP** through testing and iteration
 
 ---
 
-## 📊 GitHub Stats
+### 📚 Preplus — AI-Powered Smart Study App
+**Role:** Full-Stack iOS Developer  
+**Tech:** SwiftUI, Supabase, AI-based Q&A & Quiz Engine  
+
+- AI-assisted notes, quizzes, and progress tracking
+- Personalized study recommendations
+- Clean, distraction-free exam preparation experience
+
+---
+
+### 🏥 MediOps — Hospital Management System (Infosys Internship)
+**Role:** iOS App Developer Intern & Scrum Master  
+
+- Built SwiftUI modules for multi-role users
+- Led Agile ceremonies for an **8-member team**
+- Managed Git workflows (PRs, branching, conflict resolution)
+- Collaborated with backend and design teams
+
+> 🔒 *Some production repositories are private due to NDA and academic constraints.*
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinTarkar842&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinTarkar842&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinTarkar842&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinTarkar842&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sachin-tarkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
   <a href="mailto:tarkarsachin842@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://sachintarkar842.github.io/PortfolioWeb/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sachin-tarkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sachinarjunsingh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="https://sachintarkar842.github.io/PortfolioWeb/">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sachinarjunsingh/">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring a repository!
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <sub>⭐ If you like my work, feel free to star a repository</sub>
 </p>
